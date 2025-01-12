@@ -1,0 +1,53 @@
+.login-0{
+    font-family: Arial, Helvetica, sans-serif;
+    /*background-image: url(imagens/plano_de_fundo.jpeg);*/
+    background-size: auto;
+
+  
+}
+.box-1{
+    background-color: gray;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    padding: 50px;
+    border-radius: 25px;
+}
+.input1{
+    padding: 10px;
+    height: 50px;
+    width: 485px;
+}
+.enter{
+    height: 50px;
+    width: 507px;
+}
+
+/*a partr da qui já e cadastro*/
+
+.cadastro-0{
+    font-family: Arial, Helvetica, sans-serif;
+    /*background-image: url(imagens/plano_de_fundo.jpeg);*/
+    background-size: auto;
+
+  
+}
+.box-2{
+    background-color: gray;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    padding: 25px;
+    border-radius: 25px;
+}
+.input2{
+    padding: 10px;
+    height: 50px;
+    width: 485px;
+}
+.cadastro{
+    height: 50px;
+    width: 507px;
+}
